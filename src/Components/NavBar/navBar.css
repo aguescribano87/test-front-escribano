@@ -1,0 +1,32 @@
+.nav-container {
+    top: 0;
+    background-color: #000000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    padding: 40px 0;
+    margin-left: 140px;
+    cursor: pointer;
+}
+
+.nav-menu-cat {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    text-decoration: none;
+    cursor: pointer;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    margin-right: 100px;
+}
+
+.nav-menu-item {
+    color: #FFFFFF;
+    margin: 0 40px;
+    font-size: 1.8rem;
+    font-family: Barlow;
+}

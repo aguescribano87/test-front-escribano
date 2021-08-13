@@ -1,0 +1,19 @@
+.boton {
+  background-color: #75DED7;
+  cursor: pointer;
+  padding: 10px 50px;
+  margin: 2px;
+  font-size: 1.5rem;
+  color: white;
+  border: none;
+  font-family: barlow;
+  font-weight: lighter;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}

@@ -1,0 +1,41 @@
+.derechos-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    background-color: #75DED7;
+    font-family: Barlow;
+    font-weight: normal;
+    font-size: 1.5rem;
+    padding: 15px 0;
+}
+
+.form-footer{
+    width: 45%;
+
+}
+.cont-footer {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 50px 0;
+}
+
+.title-item-footer {
+    font-family: Garamond;
+    font-weight: lighter;
+    font-size: 2.5rem;
+}
+
+.item-footer {
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+
+}
+
+.img-footer {
+    margin-right: 10px;
+    width: 1.5rem;
+}

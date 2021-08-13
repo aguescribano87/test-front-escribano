@@ -1,0 +1,4 @@
+.cont-formulario{
+    display: flex;
+    justify-content: space-between;
+}
